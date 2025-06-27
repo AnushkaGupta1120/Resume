@@ -19,10 +19,10 @@ Final-year Computer Science Engineering student with a specialization in Gaming 
 - Developed a real-time, user-centric interface to enhance inventory management and operational efficiency.
 - Automated stock management systems to optimize resource availability and reduce manual errors.
 
-### **AI Competition Model Inspired by Game Theory**
-- Developed an AI competition model based on game theory, facilitating strategic interactions between multiple AI systems.
-- Researched and applied advanced game theory strategies to optimize AI decision-making in real-time.
-- Enhanced system adaptability and responsiveness through dynamic agent behavior modeling.
+### **Job Tracker: CareerVault**
+-Developed a full-stack job application tracking platform using React (Vite) frontend and Node.js/Express backend with MySQL and Sequelize ORM.
+-Created dynamic dashboards to monitor application statuses, interview schedules, and progress timelines.
+-Integrated notifications and reports with persistent local and server-side data management for a seamless user experience.
 
 ### **Beatwell: Heart Disease Prediction System**
 - Engineered a web application for heart disease prediction using **Flask** and **Scikit-learn**.
@@ -33,7 +33,7 @@ Final-year Computer Science Engineering student with a specialization in Gaming 
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java (DSA), Python (Basics), HTML & CSS (Basics)  
+- **Languages:** Java (DSA), HTML  
 - **Tools & Technologies:** Figma, Canva
 - **Soft Skills:** Project Management, Team Leadership, Verbal Communication  
 - **Languages Known:** English, Hindi, Japanese (pursuing)
@@ -68,4 +68,4 @@ _B.Tech in Computer Science Engineering (Gaming Technology)_
 
 ---
 
-_**Actively seeking opportunities in AI development, cloud solutions, and healthcare tech innovations.**_
+_**Actively seeking opportunities in AI development, UI/UX, Cloud Solutions, and Healthcare tech innovations.**_
