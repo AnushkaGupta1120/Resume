@@ -33,10 +33,10 @@ Final-year Computer Science Engineering student with a specialization in Gaming 
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java (DSA), FrontEnd, SQL, Notion, GitHub, jQuery, Node.js , Express, Windows
-- **Tools & Technologies:** Figma, Canva
+- **Languages:** Java (DSA), FrontEnd, SQL, GitHub, jQuery, Node.js, Express, Windows
+- **Tools & Technologies:** Figma, Canva, Notion
 - **Soft Skills:** Project Management, Team Leadership, Verbal Communication  
-- **Languages Known:** English, Hindi, Japanese (pursuing)
+- **Languages Known:** English, Hindi, Japanese (N5)
 
 ---
 
