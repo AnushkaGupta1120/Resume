@@ -1,71 +1,88 @@
-# Anushka Gupta
+Anushka Gupta
 
-📧 **Email:** anushka.99250@gmail.com  
-📱 **Phone:** +91 6375080729  
-🔗 [LinkedIn](https://www.linkedin.com/in/anushkagupta-tech) | [GitHub](https://github.com/AnushkaGupta1120)
+📱 Phone: +91 63750 80729
+📧 Email: anushkaguptawork01@gmail.com
 
----
+🔗 GitHub: github.com/AnushkaGupta1120
+ | LinkedIn: linkedin.com/in/anushkagupta-tech
 
-## 👩‍💻 About Me
+🎓 Education
 
-Final-year Computer Science Engineering student with a specialization in Gaming Technology at VIT Bhopal. Passionate about developing AI models, healthcare tech solutions, and intuitive UI/UX designs. Experienced in leading cross-functional projects, integrating cloud technologies, and deploying scalable applications.
+VIT Bhopal University, Bhopal, Madhya Pradesh
+Bachelor of Technology (Computer Science Engineering with specialization in Gaming Technology)
+📅 Sept 2022 – July 2026
+CGPA: 8.64 / 10
 
----
+Sophia Senior Secondary School, CBSE, Kota, India
+📅 April 2019 – June 2022
 
-## 📂 Projects
+Higher Secondary: 82%
 
-### **MediFlow: Smart Supply, Seamless Care**
-- Designed and implemented a supply tracking platform for hospitals with automated reorder mechanisms and low-stock alerts.
-- Developed a real-time, user-centric interface to enhance inventory management and operational efficiency.
-- Automated stock management systems to optimize resource availability and reduce manual errors.
+Matriculation: 92%
 
-### **Job Tracker: CareerVault**
--Developed a full-stack job application tracking platform using React (Vite) frontend and Node.js/Express backend with MySQL and Sequelize ORM.
--Created dynamic dashboards to monitor application statuses, interview schedules, and progress timelines.
--Integrated notifications and reports with persistent local and server-side data management for a seamless user experience.
+💻 Technical Skills
 
-### **Beatwell: Heart Disease Prediction System**
-- Engineered a web application for heart disease prediction using **Flask** and **Scikit-learn**.
-- Achieved ~87% accuracy with a Random Forest model on clinical data (UCI Cleveland dataset).
-- Deployed via **AWS Amplify** with CI/CD pipelines for continuous integration and automated feature rollouts.
+Programming & Development:
+Java, SQL, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, React.js, jQuery, Node.js, Express.js, RESTful APIs
 
----
+Database & Cloud Technologies:
+MySQL, Database Schema Design, Query Optimization, Normalization, AWS, Linux Environment
 
-## 🛠️ Technical Skills
+Tools & Methodologies:
+Git, GitHub, VS Code, Cursor, Postman, Figma, Notion, Agile & Scrum
 
-- **Languages:** Java (DSA), FrontEnd, SQL, GitHub, jQuery, Node.js, Express, Windows
-- **Tools & Technologies:** Figma, Canva, Notion
-- **Soft Skills:** Project Management, Team Leadership, Verbal Communication  
-- **Languages Known:** English, Hindi, Japanese (N5)
+🚀 Projects
+🧾 KYC Lightweight App – Digital Onboarding Solution | GitHub
 
----
+Tech Stack: React Native, Node.js, Express.js, MongoDB, DigiLocker API, OpenCV, AWS
+📅 August 2025
 
-## 🎖️ Certifications
+Developed a digital KYC solution for rural and semi-urban users, boosting adoption by 40% and conversion by 35%.
 
-- AWS Solutions Architect – Associate (Ethnus)  
-- Adobe UI/UX Graphic Design (Ethnus)  
-- Figma UI/UX Complete Bootcamp (Udemy)  
-- Foundations of Cyber-Physical Systems (NPTEL)
+Reduced verification time by 25%, improving user acquisition by 30% and retention by 20%.
 
----
+Documented regulatory compliance requirements for seamless collaboration across teams.
 
-## 🏆 Achievements & Volunteering
+🏥 MediFlow: Smart Supply, Seamless Care | GitHub
 
-- Awarded the **Reliance Foundation Scholarship** by Reliance Group.  
-- Volunteered in university fest **AdVITya 2023 & 2024** and with **NayePankh Foundation**.
+Tech Stack: React.js, Node.js, Express.js, RESTful APIs, MySQL, JavaScript, Figma
+📅 February 2025 – May 2025
 
----
+Built a hospital supply tracking system with automated low-stock alerts, achieving 30% fewer stockouts and 25% faster visibility.
 
-## 📊 Education
+Designed a real-time dashboard reducing manual errors by 40% and enhancing staff productivity by 20%.
 
-**VIT Bhopal University**  
-_B.Tech in Computer Science Engineering (Gaming Technology)_  
-📅 Sept 2022 – July 2026 | **CGPA:** 8.61/10  
+Optimized resource utilization ensuring 100% availability of critical supplies.
 
-**Sophia Senior Secondary School, Kota**  
-- Higher Secondary: 82%  
-- Matriculation: 92%
+❤️ Beatwell: Heart Disease Prediction System | GitHub
 
----
+Tech Stack: TypeScript, Python, Flask, Scikit-learn, AWS, XGBoost
+📅 September 2024 – February 2025
 
-_**Actively seeking opportunities in AI development, UI/UX, Cloud Solutions, and Healthcare tech innovations.**_
+Developed a heart disease prediction web app using a Random Forest model with ~87% accuracy on the UCI Cleveland dataset.
+
+Deployed using AWS Amplify and integrated CI/CD pipelines to reduce deployment errors by 30%.
+
+Built a real-time inference system processing 13 clinical parameters for cross-device risk analysis.
+
+🧠 Certifications
+
+McKinsey Forward Program (In Progress – Expected Oct 2025)
+
+Japanese-Language Proficiency Test (JLPT) N5 – Aug 2025
+
+Adobe UI/UX Graphic Design – Ethnus, Apr 2025
+
+Figma UI/UX Complete Bootcamp – Udemy, Jan 2025
+
+💡 Additional Information
+
+Strengths: Verbal Communication, Project Management, Team Leadership
+Languages: English, Hindi, Japanese (JLPT N5)
+Achievements & Volunteering:
+
+Awarded the Reliance Foundation Scholarship by Reliance Group.
+
+Volunteered at AdVITya 2023 & 2024 (University Fest).
+
+Contributed to NayePankh Foundation for community service.
